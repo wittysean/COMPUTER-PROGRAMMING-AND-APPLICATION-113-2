@@ -33,24 +33,20 @@ def stat_info(id):
     for i in stats[1:]:
         print(f"Checking row: {i}")
 
-        if len(i) < 8:
+        if len(i) < 2:
             print("Skipping row: too few columns")
             continue
 
         if str(i[1]).strip() == str(id).strip():
-            lat_str, lon_str = i[6], i[7]
-
-            if not lat_str or not lon_str:
-                return f"經緯度缺失: lat={lat_str}, lon={lon_str}", ""
-
-            try:
-                lat = float(lat_str)
-                lon = float(lon_str)
-            except (ValueError, TypeError):
-                return f"經緯度格式錯誤: lat={lat_str}, lon={lon_str}", ""
-
-            info = f"統計區({id})\n戶數:{i[2]}戶\n男:{i[3]}人\n女:{i[4]}人\n人口:{i[5]}人"
-            return info, get_html(lat, lon)
+            info = (
+                f"統計區({id})\n"
+                f"站名: {i[1]}\n"
+                f"英文站名: {i[2]}\n"
+                f"區碼: {i[3]}\n"
+                f"行政區代碼: {i[4]}\n"
+                f"地址: {i[5]}"
+            )
+            return info, ""  # No map returned
 
     return "找不到資料", ""
 

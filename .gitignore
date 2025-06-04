@@ -1,1 +1,4 @@
 # Ignore environment variables and secrets
+# Ignore environment variables
+apikey.env
+.env
