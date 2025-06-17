@@ -49,3 +49,7 @@
 - [EX05-03 Reply Multi-type Messages](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/05%20Web%20API/EX05_03_Reply_Multi_type_Messages.ipynb)
 - [EX05-04 Reply Template Messages](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/05%20Web%20API/EX05_04_Reply_Template_Messages.ipynb)
 
+### [ *HW 1*](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/03183920868cf26c4831b5f77641d168824c7f26/HW02_%E7%89%88%E7%B6%B2%E9%A0%81%E7%88%AC%E8%9F%B2%E4%BD%9C%E6%A5%AD.ipynb)
+### [ *HW 2*](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/03183920868cf26c4831b5f77641d168824c7f26/hw03_%E8%B6%85%E5%B8%82%E9%8A%B7%E5%94%AE%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E5%A0%B1%E5%91%8A.ipynb)
+
+### [ *期末專案 - MJ Linebot*](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/03183920868cf26c4831b5f77641d168824c7f26/%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A_Michael_Jackson_%E5%B0%88%E8%BC%AF%E4%B8%BB%E9%A1%8C%E6%A9%9F%E5%99%A8%E4%BA%BA.ipynb)
