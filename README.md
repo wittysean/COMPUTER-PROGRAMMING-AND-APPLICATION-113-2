@@ -22,5 +22,13 @@
 - [EX02-06 開眼電影](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/d300bcce5466e27446ff164a215a262bccbece3c/02%20Web%20Crawler/ex02_06.ipynb)
 - [EX02-07 KKDay](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/d300bcce5466e27446ff164a215a262bccbece3c/02%20Web%20Crawler/EX02_07_KKDay.ipynb)
 
+## *03 Data Analysis*
 
+- [EX03-01 公司薪資概況]()
+- [EX03-02 公司薪資概況]()
+- [EX03-03 空氣品質指標（AQI）]()
+- [EX03-04 薪情平台]()
+- [EX03-05 台灣股票市場個股每日成交資訊]()
+- [EX03-06 出生人口數]()
+- [EX03-07 Tips]()
 
