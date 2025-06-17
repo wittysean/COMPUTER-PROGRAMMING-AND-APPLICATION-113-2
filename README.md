@@ -2,7 +2,7 @@
 
 ## *00 Introduction*
 
-[## *01 Python Overview*](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/tree/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/01%20Python%20Overview)
+## [ *01 Python Overview*](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/tree/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/01%20Python%20Overview)
 
 - [EX01-01 加法器](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/main/01%20Python%20Overview/EX01-01%20%E5%8A%A0%E6%B3%95%E5%99%A8.ipynb)
 - [EX01-02 BMI 計算](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/main/01%20Python%20Overview/EX01-02%20BMI%20%E8%A8%88%E7%AE%97.ipynb)
