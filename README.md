@@ -32,3 +32,11 @@
 - [EX03-06 出生人口數](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/e3368d76720fda1ea87b3cb4308447c9d7dabf27/03%20/EX03_06_%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E6%95%B8.ipynb)
 - [EX03-07 Tips](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/e3368d76720fda1ea87b3cb4308447c9d7dabf27/03%20/EX03_07_Tips.ipynb)
 
+## *04 Machine Learning*
+
+- [EX04-01汽車車型數值資料轉換練習]()
+- [EX04-02 客戶基本資料編碼練習]()
+- [EX04-03 客戶分群練習]()
+- [EX04-04加州房價練習]()
+- [EX04-05 辨識鳶尾花練習]()
+- [EX04-06 ET Today 新聞標題分類練習]()
