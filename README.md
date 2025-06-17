@@ -15,4 +15,12 @@
 ## *02 Web Crawler*
 
 - [EX02-01 My Chatbot](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/main/02%20Web%20Crawler/EX02-01%20My%20Chatbot.ipynb)
+- [EX02-02 高雄紅橘線捷運車站位置查詢](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/d300bcce5466e27446ff164a215a262bccbece3c/02%20Web%20Crawler/EX02-02.ipynb)
+- [EX02-03 Yahoo 新聞儲存 Google 試算表](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/d300bcce5466e27446ff164a215a262bccbece3c/02%20Web%20Crawler/EX02_03_Yahoo_%E6%96%B0%E8%81%9E%E5%84%B2%E5%AD%98_Google_%E8%A9%A6%E7%AE%97%E8%A1%A8.ipynb)
+- [EX02-04 Download Pokemon Images](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/d300bcce5466e27446ff164a215a262bccbece3c/02%20Web%20Crawler/EX02_04_Download_Pokemon_Images.ipynb)
+- [EX02-05 PTT Gossiping](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/d300bcce5466e27446ff164a215a262bccbece3c/02%20Web%20Crawler/ex02_05.ipynb)
+- [EX02-06 開眼電影](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/d300bcce5466e27446ff164a215a262bccbece3c/02%20Web%20Crawler/ex02_06.ipynb)
+- [EX02-07 KKDay](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/d300bcce5466e27446ff164a215a262bccbece3c/02%20Web%20Crawler/EX02_07_KKDay.ipynb)
+
+
 
