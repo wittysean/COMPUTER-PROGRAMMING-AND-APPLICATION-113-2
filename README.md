@@ -40,3 +40,12 @@
 - [EX04-04加州房價練習](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/04%20Machine%20Learning/EX04_04_%E5%8A%A0%E5%B7%9E%E6%88%BF%E5%83%B9.ipynb)
 - [EX04-05 辨識鳶尾花練習](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/04%20Machine%20Learning/EX04_05_%E8%BE%A8%E8%AD%98%E9%B3%B6%E5%B0%BE%E8%8A%B1.ipynb)
 - [EX04-06 ET Today 新聞標題分類練習](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/04%20Machine%20Learning/EX04_06_ET_Today_%E6%96%B0%E8%81%9E%E6%A8%99%E9%A1%8C%E5%88%86%E9%A1%9E.ipynb)
+
+
+## [ *05 Web API*](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/tree/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/05%20Web%20API) 
+
+- [EX05-01 Echo Bot](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/05%20Web%20API/EX05_01_Echo_Bot.ipynb)
+- [EX05-02 Ask Gemini](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/05%20Web%20API/EX05_02_Ask_Gemini.ipynb)
+- [EX05-03 Reply Multi-type Messages](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/05%20Web%20API/EX05_03_Reply_Multi_type_Messages.ipynb)
+- [EX05-04 Reply Template Messages](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/05%20Web%20API/EX05_04_Reply_Template_Messages.ipynb)
+
