@@ -34,9 +34,9 @@
 
 ## [ *04 Machine Learning*](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/tree/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/04%20Machine%20Learning) 
 
-- [EX04-01汽車車型數值資料轉換練習]()
-- [EX04-02 客戶基本資料編碼練習]()
-- [EX04-03 客戶分群練習]()
-- [EX04-04加州房價練習]()
-- [EX04-05 辨識鳶尾花練習]()
-- [EX04-06 ET Today 新聞標題分類練習]()
+- [EX04-01汽車車型數值資料轉換練習](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/04%20Machine%20Learning/ex04_01.ipynb)
+- [EX04-02 客戶基本資料編碼練習](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/04%20Machine%20Learning/EX04_02_%E5%AE%A2%E6%88%B6%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99%E7%B7%A8%E7%A2%BC.ipynb)
+- [EX04-03 客戶分群練習](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/04%20Machine%20Learning/EX04_03_%E5%AE%A2%E6%88%B6%E5%88%86%E7%BE%A4.ipynb)
+- [EX04-04加州房價練習](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/04%20Machine%20Learning/EX04_04_%E5%8A%A0%E5%B7%9E%E6%88%BF%E5%83%B9.ipynb)
+- [EX04-05 辨識鳶尾花練習](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/04%20Machine%20Learning/EX04_05_%E8%BE%A8%E8%AD%98%E9%B3%B6%E5%B0%BE%E8%8A%B1.ipynb)
+- [EX04-06 ET Today 新聞標題分類練習](https://github.com/wittysean/COMPUTER-PROGRAMMING-AND-APPLICATION-113-2/blob/c153f4e09d572e62768cd8c907efffaa0d1b5e5a/04%20Machine%20Learning/EX04_06_ET_Today_%E6%96%B0%E8%81%9E%E6%A8%99%E9%A1%8C%E5%88%86%E9%A1%9E.ipynb)
